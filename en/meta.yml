@@ -8,4 +8,7 @@ last_tested: "2018-06-29"
 steps:
   - title: Introduction
   - title: What you will need
-  - title: Step title
+  - title: Introduction to Arduino
+  - title: The Arduino IDE
+  - title: The "Hello World" first Arduino sketch
+  - title: Two LEDs on a breadboard
