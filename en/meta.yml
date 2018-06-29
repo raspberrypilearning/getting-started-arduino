@@ -1,0 +1,11 @@
+title: getting-started-arduino
+hero_image: images/banner.png
+description: getting-started-arduino description
+version: 4
+listed: false
+copyedit: false
+last_tested: "2018-06-29"
+steps:
+  - title: Introduction
+  - title: What you will need
+  - title: Step title
