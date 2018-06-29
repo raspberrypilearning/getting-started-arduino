@@ -1,16 +1,11 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+In this project you'll learn how to use a variety of basic electronic components with an Arduino compatible micro-controller. You'll use the Arduino IDE to write the code to control and receive data from these components. 
 
 ### What you will make
 
-Add something here to showcase here, for example:
+You'll then combine a number of these components to build an ultrasonic proximity parking sensor that will produce an alert when an obstacle gets too close.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
-
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
 
 ### What you will learn
 
