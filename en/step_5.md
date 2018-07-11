@@ -20,5 +20,7 @@ Every sketch must have a 'setup()' and 'loop()' block, enclosed by {}. The setup
 After the setup() block runs once, the sketch enters the loop() block. When we hit the } at the bottom of the loop() block, the sketch returns to the top and runs the lines over again. This continues as long as the Arduino is powered up.
 
 --- challenge ---
+## Challenge
+
 Can you change the code to make the LED blink faster?
 --- /challenge ---

@@ -13,3 +13,4 @@ steps:
   - title: The "Hello World" first Arduino sketch
   - title: Two LEDs on a breadboard
   - title: Buttons and the serial monitor
+  - title: Ultrasonic Range Finder

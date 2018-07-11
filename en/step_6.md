@@ -11,5 +11,7 @@ This sketch uses two digital pins on the Ardunio, set as outputs, to control the
 ![](images/twoleds-code.png)
 
 --- challenge ---
+## Challenge
+
 Remove one of the resistors and swap its LED for a buzzer.
 --- /challenge ---

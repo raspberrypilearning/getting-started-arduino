@@ -22,5 +22,8 @@ Use an "if" conditional to adjust the message written to the Serial port so that
 
 
 --- challenge ---
+
+## Challenge
+
 Some very small Arduinos like the Trinket don't have a Serial port. Can you use an LED to indicate when the button is pressed?
 --- /challenge ---
