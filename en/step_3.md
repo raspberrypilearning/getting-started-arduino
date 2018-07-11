@@ -1,8 +1,8 @@
 ## Introduction to Arduino
 
-###Types of Arduino
+### Types of Arduino
 
-Just like Raspberry Pi, Arduino is both the name of a computer company and their project: a single-board  micro-controller for building digital devices and interactive objects that can sense and control objects in the physical and digital world. The project's products are distributed as open-source hardware and software, which are licensed to allow anyone to manufacture Arduino boards.
+Just like Raspberry Pi, Arduino is both the name of a computer company and their product: a single-board  micro-controller for building digital devices and interactive objects that can sense and control objects in the physical and digital world. The project's products are distributed as open-source hardware and software, which are licensed to allow anyone to manufacture Arduino boards.
 
 There are lots of different types of Arduino. Many are based around the ATMega328 chip, although there are now lots of other varieties in use.
 
@@ -14,13 +14,15 @@ The most common Arduino model, and one often used for prototyping is the Uno. Th
 
 ![](images/arduinos2.jpeg)
 
-The Rev .3 also has the ports labels on the side to make wiring up circuits even easier. However, you can use the smaller Arduinos, like the Micro in exactly the same way. You just need to ensure that you look up the pinouts for whichever model you're using (to make sure you're connecting things to the right pins) and select the right board when uploading code from the editor.
+The Rev .3 also has the ports labels on the side to make wiring up circuits even easier.
 
-Arduino is Open-source hardware and shares much of the principles and approach of free and open-source software. In particular, they believe that people should be able to study their hardware to understand how it works, make changes to it, and share those changes. Therefore many other companies release Arduino-compatible products. For example, Adafruit make some very small Trinket models 9shown next to an Uno here for camparison).
+In this project we'll be using an Uno in the circuit diagrams, however you can use one of the smaller Arduinos like the Micro in exactly the same way. You just need to ensure that you look up the pinouts for whichever model you're using (to make sure you're connecting things to the right pins) and select the right board when uploading code from the editor.
+
+Arduino is Open-source hardware and shares much of the principles and approach of free and open-source software. In particular, they believe that people should be able to study their hardware to understand how it works, make changes to it, and share those changes. Therefore many other companies release Arduino-compatible products. For example, Adafruit make some very small Trinket models. These also use much less power and are therefore great for projects that are powered by batteries.
 
 ![](images/arduinos3.jpeg)
 
-Once again, these can be prgrammed in the same way as the larger models, and code written for an Uno can be compiled to run on a Trinket (although some features such as the Serial Monitor) are not supported.
+Once again, these can be programmed in the same way as the larger models, and code written for an Uno can be compiled to run on a Trinket (although some features such as the Serial Monitor which we'll be using in this project) are not supported. So developers will often test and prototype their project on an Uno, using the Serial monitor for debugging, then once they've got everything working, transfer their code to a Trinket.
 
 Just like the Raspberry Pi has HATs, you can also purchase add-on boards for Arduino, called Shields.
 

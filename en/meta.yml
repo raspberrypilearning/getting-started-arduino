@@ -1,4 +1,4 @@
-title: Getting started with Arduino compatible micro-controllers
+title: Build a parking sensor: getting started with Arduino compatible micro-controllers
 hero_image: images/banner.png
 description: getting-started-arduino description
 version: 4
@@ -12,3 +12,4 @@ steps:
   - title: The Arduino IDE
   - title: The "Hello World" first Arduino sketch
   - title: Two LEDs on a breadboard
+  - title: Buttons and the Serial monitor
